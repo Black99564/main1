@@ -74,12 +74,12 @@ button:hover {
 
 
 
-
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 9%;
+  font-size: 10px;
+  font-weight: 30px;
+  right: 10%;
+  margin-top: 10%;
+  margin-left: 17%;
 }
 
 .center2 {
@@ -100,15 +100,23 @@ button:hover {
 
 h1 {
 font-family: 'Poppins', sans-serif;
-margin-top: 0px;
-margin-bottom: 60px;
 text-shadow: 0 0 .5vw #fff;
+size: 600px;
 }
 
 footer {
 font-family: 'Poppins', sans-serif;
 margin-top: 100px;
 margin-bottom: 60px;
+}
+
+hr {
+    border: 10;
+    height: .2vw;
+    border-radius: .6vw;
+    width: 90%;
+    right: 10px;
+    background-color: #fff;
 }
 
     .info-s {
@@ -118,3 +126,6 @@ margin-bottom: 60px;
         left: 10%;
         color: rgba(204, 204, 204, 0.356);
     }
+
+
+
