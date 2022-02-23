@@ -77,8 +77,6 @@ button:hover {
 .center {
   font-size: 10px;
   font-weight: 30px;
-  right: 10%;
-  margin-top: 10%;
   margin-left: 17%;
 }
 
@@ -102,7 +100,6 @@ h1 {
 font-family: 'Poppins', sans-serif;
 text-shadow: 0 0 .5vw #fff;
 size: 600px;
-margin-left: 10%;
 }
 
 footer {
